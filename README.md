@@ -18,4 +18,5 @@ This Repository contents all the content of the C++ with DSA and solved using C+
 14. Scope of array - Understanding use case and storage of array
 15. Liner Search - Code of linear Search one by one
 16. Reverse array -  Code of Reverse array
+17. Binary Search -  logic of Binary case
     
